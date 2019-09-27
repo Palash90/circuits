@@ -3,5 +3,5 @@ Some Circuits for fun play.
 An ambitious project to construct a computer from transistor and run High Level Language program on it.
 
 ## Links for circuit
-
-Not Gate - http://tinyurl.com/y4gjcwms
+Not Gate - http://tinyurl.com/yxp9oqhw
+And Gate - http://tinyurl.com/y2pg6hzh
