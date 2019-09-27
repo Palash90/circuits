@@ -13,4 +13,4 @@ Nand Gate - http://tinyurl.com/y3fhhuul
 
 Or Gate - http://tinyurl.com/y3mvlm7r
 
-
+Nor Gate - http://tinyurl.com/yyvtcwl7
