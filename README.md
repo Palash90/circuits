@@ -10,3 +10,7 @@ Not Gate (NMOS) - http://tinyurl.com/yyltlbms
 And Gate - http://tinyurl.com/y2pg6hzh
 
 Nand Gate - http://tinyurl.com/y3fhhuul
+
+Or Gate - http://tinyurl.com/y3mvlm7r
+
+
