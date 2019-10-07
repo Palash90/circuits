@@ -57,51 +57,41 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(550,180)" to="(670,180)"/>
     <wire from="(420,200)" to="(670,200)"/>
     <wire from="(290,200)" to="(380,200)"/>
-    <wire from="(830,180)" to="(830,290)"/>
     <wire from="(290,40)" to="(290,200)"/>
+    <wire from="(670,90)" to="(690,90)"/>
     <wire from="(290,40)" to="(470,40)"/>
-    <wire from="(670,180)" to="(830,180)"/>
     <wire from="(470,40)" to="(470,180)"/>
     <wire from="(530,60)" to="(530,160)"/>
-    <wire from="(850,310)" to="(880,310)"/>
-    <wire from="(880,310)" to="(910,310)"/>
+    <wire from="(670,90)" to="(670,180)"/>
     <wire from="(670,200)" to="(670,230)"/>
-    <wire from="(810,310)" to="(820,310)"/>
     <wire from="(250,200)" to="(290,200)"/>
-    <wire from="(730,310)" to="(810,310)"/>
     <wire from="(670,180)" to="(670,200)"/>
     <wire from="(470,180)" to="(510,180)"/>
-    <wire from="(730,310)" to="(730,330)"/>
-    <wire from="(880,260)" to="(880,310)"/>
-    <comp lib="0" loc="(730,330)" name="Ground"/>
-    <comp lib="0" loc="(250,200)" name="Constant"/>
-    <comp lib="0" loc="(550,180)" name="Transistor">
-      <a name="type" val="n"/>
+    <comp lib="0" loc="(530,60)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="tristate" val="false"/>
     </comp>
-    <comp lib="0" loc="(910,310)" name="Pin">
+    <comp lib="0" loc="(690,90)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="tristate" val="false"/>
     </comp>
-    <comp lib="0" loc="(880,260)" name="Pull Resistor">
+    <comp lib="0" loc="(250,200)" name="Constant">
+      <a name="value" val="0x0"/>
+    </comp>
+    <comp lib="0" loc="(670,230)" name="Pull Resistor">
+      <a name="facing" val="north"/>
       <a name="pull" val="1"/>
     </comp>
     <comp lib="0" loc="(400,110)" name="Pin">
       <a name="facing" val="south"/>
       <a name="tristate" val="false"/>
     </comp>
-    <comp lib="0" loc="(670,230)" name="Pull Resistor">
-      <a name="facing" val="north"/>
-    </comp>
-    <comp lib="0" loc="(850,310)" name="Transistor">
-      <a name="type" val="n"/>
-    </comp>
     <comp lib="0" loc="(420,200)" name="Transistor">
       <a name="type" val="n"/>
     </comp>
-    <comp lib="0" loc="(530,60)" name="Pin">
-      <a name="facing" val="south"/>
-      <a name="tristate" val="false"/>
+    <comp lib="0" loc="(550,180)" name="Transistor">
+      <a name="type" val="n"/>
     </comp>
   </circuit>
 </project>
