@@ -15,4 +15,4 @@ Or Gate - http://tinyurl.com/y3mvlm7r
 
 Nor Gate - http://tinyurl.com/yyvtcwl7
 
-D Flip Flop - http://tinyurl.com/yxmb3a3k
+D Flip Flop - http://tinyurl.com/yyqh7vpq
